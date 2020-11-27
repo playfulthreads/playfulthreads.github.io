@@ -82,8 +82,7 @@
 .u-section-1 .u-text-3 {
   font-size: 1rem;
   font-weight: 700;
-  width: 50px;
-  margin: 13px auto 0;
+  margin: 19px 6px 0 15px;
 }
 
 .u-section-1 .u-btn-4 {
@@ -105,8 +104,7 @@
 .u-section-1 .u-text-4 {
   font-size: 1rem;
   font-weight: 700;
-  width: 50px;
-  margin: 13px auto 0;
+  margin: 19px 6px 0 15px;
 }
 
 .u-section-1 .u-btn-5 {
@@ -128,8 +126,7 @@
 .u-section-1 .u-text-5 {
   font-size: 1rem;
   font-weight: 700;
-  width: 50px;
-  margin: 13px auto 0;
+  margin: 19px 6px 0 15px;
 }
 
 .u-section-1 .u-btn-6 {
@@ -163,6 +160,18 @@
     min-height: 67px;
     grid-template-columns: repeat(3, calc(33.333333333333336% - 7px));
     height: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 50px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: 50px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 50px;
   }
 }
 
