@@ -31685,16 +31685,16 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    width: 53px;
-    height: 64px;
-  }
-
   .u-header .u-menu-1 {
     width: auto;
   }
 }
-
+@media (max-width: 991px) {
+  .u-header .u-image-1 {
+    width: 53px;
+    height: 64px;
+  }
+}
 @media (max-width: 767px) {
   .u-header .u-image-1 {
     width: auto;
